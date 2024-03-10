@@ -1,0 +1,20 @@
+{
+    "name": "content-enhancer-nft",
+    "version": "1.1.0",
+    "description": "Enhances the NFT CMS Core with additional content management and user interaction features.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/helenfitzgerald00/content-enhancer-nft"
+    },
+    "author": "helenfitzgerald00",
+    "license": "MIT",
+    "dependencies": {
+        "nft-cms-core": "1.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "bcrypt": "^5.0.0"
+    }
+}
